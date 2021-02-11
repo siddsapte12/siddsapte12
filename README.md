@@ -19,7 +19,7 @@ I am a data enthusiast and a graduate student from the **Northeastern University
 
 - 🔭 Actively looking for an full-time oppurtunity as a Data Analyst/Business Intelligence Engineer/Data scientist/Machine Learning engineer
 - 🌱 Python, R, SQL(MySQL, MS SQL, PostgreSQL, AWS Redshift, Oracle DB), Tableau, Power BI, AWS, and Excel but not limited to are few of my preferred tech tools
-- 📫 How to reach me: sapte.s@northeastern.edu
+- 📫 How to reach me: sapte.s@northeastern.edu || [LinkedIn](https://www.linkedin.com/in/siddhant-sapte/)
 - 😄 Pronouns: Data Ninja/He/His/Him
 - ⚡ Fun fact: I write in free time, my [blog](https://theissac.wordpress.com/)
 
