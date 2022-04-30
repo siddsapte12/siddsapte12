@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a data enthusiast and a graduate student from the **Northeastern University** in the field of **Data Analytics (Concentartion:Statistical Modeling)**. I am currently working as a Data Science DevOps Analyst wherein I am working with SQL, Python, and Tableau. I have used SQL and Python to do data wrangling, data merging, and to find insights from the data. I have three years of experience as a Data Engineer and System Analyst and have extensive experience in the data domain.
+I am a data enthusiast and a graduate student from the **Northeastern University** in the field of **Data Analytics (Concentartion:Statistical Modeling)**. I am currently working as a Data Analyst wherein I am working with SQL, Python, and Tableau. I have used SQL and Python to do data wrangling, data merging, and to find insights from the data. I have ~ 4 years of experience in the data domain.
 
 - 🔭 Actively looking for an full-time oppurtunity as a Data Analyst/Business Intelligence Engineer/Data scientist/Machine Learning engineer
 - 🌱 Python, R, SQL(MySQL, MS SQL, PostgreSQL, AWS Redshift, Oracle DB), Tableau, Power BI, AWS, and Excel but not limited to are few of my preferred tech tools
