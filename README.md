@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a data enthusiast and a graduate student from the **Northeastern University** in the field of **Data Analytics (Concentartion:Statistical Modeling)**. I am currently working as a Data Analyst wherein I am working with SQL, Python, and Tableau. I have used SQL and Python to do data wrangling, data merging, and to find insights from the data. I have ~ 4 years of experience in the data domain.
+I am a data enthusiast and a graduate student from the **Northeastern University** in the field of **Data Analytics (Concentartion:Statistical Modeling)**. I am currently working as a Product Data Analyst wherein I am working with SQL (snowflake), Python, Airflow, dbt and Tableau. I have used SQL and Python to do data wrangling, data merging, and to find insights from the data. I have ~ 4 years of experience in the data domain.
 
-- 🔭 Actively looking for an full-time oppurtunity as a Data Analyst/Business Intelligence Engineer/Data scientist/Machine Learning engineer
-- 🌱 Python, R, SQL(MySQL, MS SQL, PostgreSQL, AWS Redshift, Oracle DB), Tableau, Power BI, AWS, and Excel but not limited to are few of my preferred tech tools
+- 🔭 Actively looking for an full-time oppurtunity as a Analytics Engineer/Data Analyst/Business Intelligence Engineer
+- 🌱 Python, R, SQL, Airflow, dbt, Tableau, Power BI, AWS, and Excel but not limited to are few of my preferred tech tools
 - 📫 How to reach me: sapte.s@northeastern.edu || [LinkedIn](https://www.linkedin.com/in/siddhant-sapte/)
 - 😄 Pronouns: Data Ninja/He/His/Him
 - ⚡ Fun fact: I write in free time, my [blog](https://theissac.wordpress.com/)
